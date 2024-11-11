@@ -28,6 +28,6 @@ npm run dev
 npm run build
 ```
 ### Third-Party Library。
-、、、sh
+```sh
 npm install echarts element-plus marked
-、、、
+```
